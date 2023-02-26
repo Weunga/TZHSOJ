@@ -1,0 +1,5 @@
+a1,a2=input().split(" ")
+int(a1)
+int(a2)
+if a1<=a2:
+    print(a2)
