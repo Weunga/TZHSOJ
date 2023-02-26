@@ -1,0 +1,6 @@
+r=float(input())
+pi=3.1415
+s=pi*r*r
+c=2*pi*r
+print("%.2f"%c)
+print("%.2f"%s)
