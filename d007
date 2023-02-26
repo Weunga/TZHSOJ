@@ -1,0 +1,6 @@
+a1,a2=input().split(" ")
+a1=int(a1)
+a2=int(a2)
+s1=a1//a2
+s2=a1%a2
+print(str(s1)+" "+str(s2))
