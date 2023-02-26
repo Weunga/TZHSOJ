@@ -1,0 +1,6 @@
+a1,a2=input().split(" ")
+int(a1)
+int(a2)
+c=(a1+a2)*2
+s=a1*a2
+print(c+" "+s)
